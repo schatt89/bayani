@@ -105,3 +105,4 @@ ENV/
 data/
 !.gitkeep
 !*/
+.Rproj.user
